@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/adamsonoma
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.sonomaconsulting.se
+  * I am adamsonoma (https://keybase.io/adamsonoma) on keybase.
+  * I have a public key ASA5LXAOjBRYg-te8t01FGOdp63ITMFEGa8AtA6PvDI_XQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120392d700e8c145883eb5ef2dd3514639da7adc84cc14419af00b40e8fbc323f5d0a",
+      "host": "keybase.io",
+      "kid": "0120392d700e8c145883eb5ef2dd3514639da7adc84cc14419af00b40e8fbc323f5d0a",
+      "uid": "2a0ba8d348ebb53456adf5aec81d7a19",
+      "username": "adamsonoma"
+    },
+    "merkle_root": {
+      "ctime": 1534931351,
+      "hash": "58ae33ea2f554ca0ae3fd0719e01db44ce16528c443cf2a2f8c9efc9836007ec05c5185b2f2c226bb85df1431cb45138c34268584900316bdf65eb76b7a33aec",
+      "hash_meta": "301d3055117939ce6c1ed1abfc3d9a31c94b24e46951cb221650084bca1b432c",
+      "seqno": 3498175
+    },
+    "service": {
+      "entropy": "JhBjZBEono60hi48Scw9yYuO",
+      "hostname": "www.sonomaconsulting.se",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.5.0"
+  },
+  "ctime": 1534931378,
+  "expire_in": 504576000,
+  "prev": "29aa858033124ff2c62159e31fe5bdc5704692d105fc11ad66058c530e74c4e4",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgOS1wDowUWIPrXvLdNRRjnaetyEzBRBmvALQOj7wyP10Kp3BheWxvYWTESpcCBsQgKaqFgDMST/LGIVnjH+W9xXBGktEF/BGtZgWMUw50xOTEIAR8Qaxdkip6v9s7ztr4pKWeuqH/vF0qLQ0t2HQL5p/xAgHCo3NpZ8RAmGCpNzIoreCm8B86fDpbkVhvujWSmzl9qh00yYl9C39+zyLe378ptcxyp7LA9wRWPtGMix9ziQKQ4kLYxTFgCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILmBY/3Aib+mOxJKHnD8w1O3QIpNmGBMJRAS5xzrr2Oko3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/adamsonoma
+
+==================================================================
